@@ -1,5 +1,5 @@
 # GenerativeArtSeries 
-## A Study in Modelling Abstract Art in Python by bmd/deIndustries 2017.
+## A Study in Modelling Abstract Art with Python by bmd/deIndustries 2017.
 
 ##Blinky Palermo - Straight (1965), implemented in python (2017)
 
