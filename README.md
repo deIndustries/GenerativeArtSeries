@@ -1,5 +1,5 @@
-# GenerativeArtSeries 
-## A Study in Modelling Abstract Art with Python by bmd/deIndustries 2017.
+# Generative Art Series 
+## A Study in Modelling Abstract Art by Blinky Palermo and Ellsworth Kelly with Python by deIndustries , 2017.
 
 ##Blinky Palermo - Straight (1965), implemented in python (2017)
 
@@ -27,9 +27,7 @@
 
 ##Blinky Palermo - Times of the Day Series, implemented in python (2017)
 
-![Blinky Palermo - Times of the Day Series]
-(https://github.com/deIndustries/GenerativeArtSeries/blob/master/BlinkyPalermo-4Forms/Blinky%20Palermo%20-%20Times%20Of%20The%20Day%20I%20-%20Rendered%20by%20deIndustries.png)
-
+![Blinky Palermo - Times of the Day Series, implemented in python (2017)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/BlinkyPalermo-4Forms/Blinky%20Palermo%20-%20Times%20Of%20The%20Day%20I%20-%20Rendered%20by%20deIndustries.png?raw=true)
 
 ##Ellsworth Kelly - Colors For A Large Wall (1951), implemented in python (2017)
 
