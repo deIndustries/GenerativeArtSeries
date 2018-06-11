@@ -13,7 +13,7 @@
 ![Ellsworth Kelly - Chatham III, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20III_1528708929.png)
 
 ### Ellsworth Kelly - Chatham IV
-![Ellsworth Kelly - Chatham IV, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20IV_1528710368)
+![Ellsworth Kelly - Chatham IV, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20IV_1528710368.png)
 
 ### Ellsworth Kelly - Chatham V
 ![Ellsworth Kelly - Chatham V, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20V_1528710062.png)
