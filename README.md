@@ -43,8 +43,9 @@
 
 ![Ellsworth Kelly - Gaza (1956), implemented in python (2017)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/EllsworthKelly-Gaza/deIndustries-GenerativeArtSeries-EllsworthKelly-Gaza1483758429.png)
 
-## Ellsworth Kelly - Chatham Series (1971), implemented in python (2018)
+## [Ellsworth Kelly - Chatham Series (1971), implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/tree/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries)
 ![Ellsworth Kelly - Chatham II, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20II_1528712929.png)
 
-## Max Bill - Munich Olympics Poster, implemented in python (2018)
+
+## [Max Bill - Munich Olympics Poster, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/tree/master/MaxBill-Munich72)
 ![Max Bill - Munich Olympics Poster, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/MaxBill-Munich72/deIndustries-GenerativeArtSeries-MaxBill-Munich72_1544269631.png?raw=true)
