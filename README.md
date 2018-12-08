@@ -1,5 +1,5 @@
 # Generative Art Series 
-## A Study in Modelling Abstract Art by Blinky Palermo and Ellsworth Kelly with Python by deIndustries , 2017.
+## A Study in Modelling Abstract Art by Blinky Palermo and Ellsworth Kelly with Python by deIndustries / bmd  (2017/2018).
 
 ## Blinky Palermo - Straight (1965), implemented in python (2017)
 
@@ -45,3 +45,6 @@
 
 ## Ellsworth Kelly - Chatham Series (1971), implemented in python (2018)
 ![Ellsworth Kelly - Chatham II, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20II_1528712929.png)
+
+## Max Bill - Munich Olympics Poster, implemented in python (2018)
+![Max Bill - Munich Olympics Poster, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/MaxBill-Munich72/deIndustries-GenerativeArtSeries-MaxBill-Munich72_1544269631.png?raw=true)
