@@ -1,7 +1,4 @@
-# Generative Art Series 
-## A Study in Modelling Abstract Art by Blinky Palermo and Ellsworth Kelly with Python by deIndustries , 2017-2018.
-
-## Ellsworth Kelly - Chatham Series implemented in python (2018)
+# Ellsworth Kelly - Chatham Series implemented in python (2018)
 
 ### Ellsworth Kelly - Chatham I
 ![Ellsworth Kelly - Chatham I, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries/deIndustries-GenerativeArtSeries-EllsworthKelly-ChathamSeries_Chatham%20I_1528708481.png)
