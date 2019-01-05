@@ -49,3 +49,11 @@
 
 ## [Max Bill - Munich Olympics Poster, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/tree/master/MaxBill-Munich72)
 ![Max Bill - Munich Olympics Poster, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/MaxBill-Munich72/deIndustries-GenerativeArtSeries-MaxBill-Munich72_1544269631.png?raw=true)
+
+
+## [Max Bill - UntitledFrom9x5Konkret, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/tree/master/MaxBill-Untitled-9x5KonkretPortfolio)
+![Max Bill - Untitled from 9x5 KonkretPortfolio, implemented in python (2018)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/MaxBill-Untitled-9x5KonkretPortfolio/deIndustries-GenerativeArtSeries-MaxBill-UntitledFrom9x5Konkret_1545909301.png?raw=true)
+
+
+## [Max Bill - Sense Titol, implemented in python (2019)](https://github.com/deIndustries/GenerativeArtSeries/tree/master/MaxBill-SenseTitol)
+![Max Bill - Sense Titol, implemented in python (2019)](https://github.com/deIndustries/GenerativeArtSeries/blob/master/MaxBill-SenseTitol/deIndustries-GenerativeArtSeries-MaxBill-SenseTitol_1546653369.png?raw=true)
